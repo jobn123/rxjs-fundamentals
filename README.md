@@ -1,3 +1,5 @@
+> Think of RxJS as Loadash for events
+ 
 # [RxJS Fundamentals](https://frontendmasters.com/courses/rx-js/)
 
 This respository contains the exercises and sample applications used in [Steve's](https://twitter.com/stevekinney) RxJS Fundamentals course for [Frontend Masters](https://frontendmasters.com).
